@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Photosnap-multi-page-website-built-in-React/static/css/main.6bb7c0e2.chunk.css",
-    "main.js": "/Photosnap-multi-page-website-built-in-React/static/js/main.558ad289.chunk.js",
-    "main.js.map": "/Photosnap-multi-page-website-built-in-React/static/js/main.558ad289.chunk.js.map",
+    "main.js": "/Photosnap-multi-page-website-built-in-React/static/js/main.e72810de.chunk.js",
+    "main.js.map": "/Photosnap-multi-page-website-built-in-React/static/js/main.e72810de.chunk.js.map",
     "runtime-main.js": "/Photosnap-multi-page-website-built-in-React/static/js/runtime-main.0a1aaffc.js",
     "runtime-main.js.map": "/Photosnap-multi-page-website-built-in-React/static/js/runtime-main.0a1aaffc.js.map",
-    "static/js/2.18a2fe48.chunk.js": "/Photosnap-multi-page-website-built-in-React/static/js/2.18a2fe48.chunk.js",
-    "static/js/2.18a2fe48.chunk.js.map": "/Photosnap-multi-page-website-built-in-React/static/js/2.18a2fe48.chunk.js.map",
+    "static/js/2.3e473459.chunk.js": "/Photosnap-multi-page-website-built-in-React/static/js/2.3e473459.chunk.js",
+    "static/js/2.3e473459.chunk.js.map": "/Photosnap-multi-page-website-built-in-React/static/js/2.3e473459.chunk.js.map",
     "index.html": "/Photosnap-multi-page-website-built-in-React/index.html",
     "static/css/main.6bb7c0e2.chunk.css.map": "/Photosnap-multi-page-website-built-in-React/static/css/main.6bb7c0e2.chunk.css.map",
-    "static/js/2.18a2fe48.chunk.js.LICENSE.txt": "/Photosnap-multi-page-website-built-in-React/static/js/2.18a2fe48.chunk.js.LICENSE.txt",
+    "static/js/2.3e473459.chunk.js.LICENSE.txt": "/Photosnap-multi-page-website-built-in-React/static/js/2.3e473459.chunk.js.LICENSE.txt",
     "static/media/LargerImage.css": "/Photosnap-multi-page-website-built-in-React/static/media/designed-for-everyone.4f5ea146.jpg",
     "static/media/Features.css": "/Photosnap-multi-page-website-built-in-React/static/media/hero.e7ab9f45.jpg",
     "static/media/Pricing.css": "/Photosnap-multi-page-website-built-in-React/static/media/hero.d39d8752.jpg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0a1aaffc.js",
-    "static/js/2.18a2fe48.chunk.js",
+    "static/js/2.3e473459.chunk.js",
     "static/css/main.6bb7c0e2.chunk.css",
-    "static/js/main.558ad289.chunk.js"
+    "static/js/main.e72810de.chunk.js"
   ]
 }
